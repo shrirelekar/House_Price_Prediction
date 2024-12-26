@@ -1,4 +1,5 @@
-<h1>House Price Prediction Using Machine Learning Models<br>
+<House Price Prediction Using Machine Learning Models<br>
+
 This repository contains the code and detailed results of my Capstone Project for the MCA degree in Data Science. The goal of this project was to predict house prices using various machine learning models and evaluate their performance based on accuracy, error metrics, and generalization.<br>
 
 Project Overview<br>
