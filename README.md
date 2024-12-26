@@ -37,4 +37,3 @@ R² Score: 0.94<br>
 This model emerged as the best performer, with a strong ability to generalize on unseen data and minimal overfitting.<br>
 XGBoost and Support Vector Regressor also showed strong performance, with R² scores around 0.94.<br><br>
 
-Feel free to fork this repository, make modifications, and submit pull requests. Contributions are welcome!<br>
